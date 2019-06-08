@@ -1,0 +1,163 @@
+#Body_4 {
+  width: 100%;
+  background-color: #ececec;
+  height: 500px;
+}
+
+.Body_4_Top {
+  width: 100%;
+}
+
+.Body_4_1 {
+  width: 100%;
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.Body_4_2 {
+  width: 100%;
+  display: block;
+  font-size: 0.5em;
+  color: gray;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.Body_4_Bottom {
+  width: 100%;
+  padding-top: 5%;
+  text-align: center;
+}
+
+.Contact {
+  text-align: left;
+  vertical-align: top;
+  display: inline-block;
+  width: 50%;
+  height: 500px;
+}
+
+.Social_Media_Header {
+  font-size: 0.8em;
+  color: gray;
+  text-decoration: underline;
+}
+
+.Social_Media_Text {
+  padding-top: 20px;
+  font-size: 0.5em;
+  text-align: left;
+}
+
+.Social_Media_Text img {
+  height: 60px;
+  width: 20%;
+  padding-right: 2%;
+}
+
+.Email_Header {
+  padding-top: 40px;
+  font-size: 0.8em;
+  color: gray;
+  text-decoration: underline;
+}
+
+.Email_Text {
+  padding-top: 10px;
+  font-size: 0.5em;
+  text-align: left;
+}
+
+.Phone_Header {
+  padding-top: 40px;
+  font-size: 0.8em;
+  color: gray;
+  text-decoration: underline;
+}
+
+.Phone_Text {
+  padding-top: 10px;
+  font-size: 0.5em;
+  text-align: left;
+}
+
+@media only screen and (min-width: 50em) {
+  #Body_4 {
+    background-color: #ececec;
+    height: 850px;
+  }
+
+  .Body_4_1 {
+    display: block;
+    font-size: 2em;
+    text-align: center;
+    padding-top: 100px;
+  }
+
+  .Body_4_2 {
+    display: block;
+    font-size: 1em;
+    color: gray;
+    text-align: center;
+    padding-top: 10px;
+  }
+
+  .Body_4_Bottom {
+    padding-top: 5%;
+    text-align: center;
+  }
+
+  .Contact {
+    text-align: left;
+    vertical-align: top;
+    display: inline-block;
+    width: 50%;
+    height: 500px;
+  }
+
+  .Social_Media_Header {
+    font-size: 1.5em;
+    color: gray;
+    text-decoration: underline;
+  }
+
+  .Social_Media_Text {
+    padding-top: 20px;
+    font-size: 1em;
+    text-align: left;
+  }
+
+  .Social_Media_Text img {
+    height: 100px;
+    width: 10%;
+    padding-right: 2%;
+  }
+
+  .Email_Header {
+    padding-top: 40px;
+    font-size: 1.5em;
+    color: gray;
+    text-decoration: underline;
+  }
+
+  .Email_Text {
+    padding-top: 10px;
+    font-size: 1em;
+    text-align: left;
+  }
+
+  .Phone_Header {
+    padding-top: 40px;
+    font-size: 1.5em;
+    color: gray;
+    text-decoration: underline;
+  }
+
+  .Phone_Text {
+    padding-top: 10px;
+    font-size: 1em;
+    text-align: left;
+  }
+}
