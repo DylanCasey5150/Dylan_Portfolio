@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/Dylan_Portfolio/static/css/main.1d88bb40.chunk.css",
+    "main.js": "/github.io/Dylan_Portfolio/static/js/main.86ec5096.chunk.js",
+    "main.js.map": "/github.io/Dylan_Portfolio/static/js/main.86ec5096.chunk.js.map",
+    "runtime~main.js": "/github.io/Dylan_Portfolio/static/js/runtime~main.a9e70b8b.js",
+    "runtime~main.js.map": "/github.io/Dylan_Portfolio/static/js/runtime~main.a9e70b8b.js.map",
+    "static/js/2.c6513ef4.chunk.js": "/github.io/Dylan_Portfolio/static/js/2.c6513ef4.chunk.js",
+    "static/js/2.c6513ef4.chunk.js.map": "/github.io/Dylan_Portfolio/static/js/2.c6513ef4.chunk.js.map",
+    "index.html": "/github.io/Dylan_Portfolio/index.html",
+    "precache-manifest.d73ceefc759db1de475262064cfc8d80.js": "/github.io/Dylan_Portfolio/precache-manifest.d73ceefc759db1de475262064cfc8d80.js",
+    "service-worker.js": "/github.io/Dylan_Portfolio/service-worker.js",
+    "static/css/main.1d88bb40.chunk.css.map": "/github.io/Dylan_Portfolio/static/css/main.1d88bb40.chunk.css.map",
+    "static/media/Above_Average_Template.png": "/github.io/Dylan_Portfolio/static/media/Above_Average_Template.27bf01e5.png",
+    "static/media/Above_Average_Template_2.png": "/github.io/Dylan_Portfolio/static/media/Above_Average_Template_2.4a5f27e1.png",
+    "static/media/TAPP_3.png": "/github.io/Dylan_Portfolio/static/media/TAPP_3.e2e4b1c6.png",
+    "static/media/TAPP_home.png": "/github.io/Dylan_Portfolio/static/media/TAPP_home.5e5440c7.png",
+    "static/media/TAPP_settings.png": "/github.io/Dylan_Portfolio/static/media/TAPP_settings.150c1ffa.png",
+    "static/media/dylan_grad_pic.png": "/github.io/Dylan_Portfolio/static/media/dylan_grad_pic.b01630a1.png",
+    "static/media/body_1.css": "/github.io/Dylan_Portfolio/static/media/laptop_coffee_background.174bac17.jpg",
+    "static/media/logo.svg": "/github.io/Dylan_Portfolio/static/media/logo.5d5d9eef.svg"
+  }
+}
