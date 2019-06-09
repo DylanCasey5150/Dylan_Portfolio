@@ -2,7 +2,7 @@
   "name": "dylan_portfolio_final",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/DylanCasey5150/Dylan_Portfolio",
+  "homepage": "https://DylanCasey5150/github.io/Dylan_Portfolio",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
