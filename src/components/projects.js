@@ -37,7 +37,7 @@ class Projects extends Component {
     };
 
     let externalUrlLinks = {
-      truetone: "http://www.truetoneapp.com",
+      truetone: "http://truetonebeta.com/",
       github: "https://github.com/DylanCasey5150"
     };
 
@@ -52,8 +52,12 @@ class Projects extends Component {
             <div className="quick_overview_header">Quick Project Overview</div>{" "}
             <div className="container">
               <div className="buttons">
-                <button onClick={this.onPrevClick} />
-                <button onClick={this.onNextClick} />
+                <button onClick={this.onPrevClick}>
+                  <b className="previous_button_arrow">{"<"}</b>
+                </button>
+                <button onClick={this.onNextClick}>
+                  <b className="next_button_arrow">{">"}</b>
+                </button>
               </div>
               <ol className="slide-container">
                 {[
@@ -78,7 +82,11 @@ class Projects extends Component {
         <div className="project_links">
           <div className="project_links_header">Project Links</div>
           <div className="project_links_body_1">
-            <a href={externalUrlLinks.truetone} target="_blank">
+            <a
+              className="project_links_body_1_link"
+              href={externalUrlLinks.truetone}
+              target="_blank"
+            >
               True Tone
             </a>
           </div>
@@ -88,7 +96,11 @@ class Projects extends Component {
             products. <b>(currently under construction)</b>
           </div>
           <div className="project_links_body_2">
-            <a href={externalUrlLinks.github} target="_blank">
+            <a
+              className="project_links_body_2_link"
+              href={externalUrlLinks.github}
+              target="_blank"
+            >
               Github
             </a>
           </div>

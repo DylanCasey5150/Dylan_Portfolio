@@ -20,11 +20,13 @@ class Body_2 extends Component {
             <div class="Profile_text">
               <div class="My_Mission_Header">My Mission</div>
               <div class="My_Mission_text">
-                My mission is to help people achieve their personal and
+                Hello, my name is Dylan and I'm an aspiring web developer. My
+                mission is to help people achieve their personal and
                 professional goals through technology. Bringing a vision to life
                 using technology comes with a certain sense of satisfaction that
                 I haven't found elsewhere. I love watching others succeed and
-                having some success of my own in the process.
+                having some success of my own in the process. Let's build
+                something!
               </div>
             </div>
           </div>

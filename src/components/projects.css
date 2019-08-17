@@ -84,7 +84,7 @@ html {
 }
 
 .true_tone_description {
-  font-size: 0.4em;
+  font-size: 0.8em;
 }
 
 .project_links_body_2 {
@@ -94,7 +94,7 @@ html {
 }
 
 .github_description {
-  font-size: 0.4em;
+  font-size: 0.8em;
 }
 
 .container {
@@ -105,7 +105,6 @@ html {
 
 button {
   text-align: center;
-  padding-left: 32%;
 }
 
 .slide-container {
@@ -220,6 +219,14 @@ li:nth-child(5) {
     text-align: left;
   }
 
+  .project_links_body_1_link {
+    color: blue;
+  }
+
+  .project_links_body_2_link {
+    color: blue;
+  }
+
   .project_links_body_2 {
     padding-top: 20px;
     font-size: 1em;
@@ -236,6 +243,9 @@ li:nth-child(5) {
   button {
     text-align: center;
     width: 50%;
+  }
+
+  .previous_button_arrow {
   }
 
   .slide-container {

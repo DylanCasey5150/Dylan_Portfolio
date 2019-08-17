@@ -59,15 +59,13 @@ img {
   margin-top: 2%;
   width: 100%;
   font-size: 0.5em;
-  text-align: center;
+  text-align: justify;
 }
 
 @media only screen and (min-width: 50em) /*large*/ {
   #Body_2 {
     background-color: white;
-    height: 850px;
-    scroll-behavior: smooth;
-    overflow-y: scroll;
+    height: 900px;
   }
 
   .Body_2_Top {
